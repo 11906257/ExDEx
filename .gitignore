@@ -1,0 +1,7 @@
+# macOS metadata files
+.DS_Store
+**/.DS_Store
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/

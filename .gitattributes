@@ -6,3 +6,4 @@ FAOSTAT/Land[[:space:]]Use/Inputs_LandUse_E_AreaCodes.csv filter=lfs diff=lfs me
 FAOSTAT/Land[[:space:]]Use/Inputs_LandUse_E_Elements.csv filter=lfs diff=lfs merge=lfs -text
 FAOSTAT/Land[[:space:]]Use/Inputs_LandUse_E_Flags.csv filter=lfs diff=lfs merge=lfs -text
 FAOSTAT/Land[[:space:]]Use/Inputs_LandUse_E_ItemCodes.csv filter=lfs diff=lfs merge=lfs -text
+SPEI/spei01.nc filter=lfs diff=lfs merge=lfs -text

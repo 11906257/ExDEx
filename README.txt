@@ -6,6 +6,6 @@ It includes the following folders:
 - EEA
 - EUROSTAT
 - FAOSTAT
--SPEI
+- SPEI
 
 This is because of the maximum file size of 256 MB for the TUWEL upload.
